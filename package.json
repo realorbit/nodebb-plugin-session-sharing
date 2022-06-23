@@ -5,7 +5,7 @@
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/julianlam/nodebb-plugin-session-sharing"
+    "url": "https://github.com/realorbit/nodebb-plugin-session-sharing"
   },
   "keywords": [
     "nodebb",
